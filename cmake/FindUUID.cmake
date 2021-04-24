@@ -63,6 +63,8 @@ else (UUID_LIBRARIES AND UUID_INCLUDE_DIRS)
       /Library/Frameworks
       /usr/local/lib
       /usr/lib
+      /usr/lib/x86_64-linux-gnu
+      /usr/lib/i386-linux-gnu
       /sw/lib
       /opt/local/lib
       /opt/csw/lib
@@ -85,6 +87,8 @@ else (UUID_LIBRARIES AND UUID_INCLUDE_DIRS)
       /Library/Frameworks
       /usr/local/lib
       /usr/lib
+      /usr/lib/x86_64-linux-gnu
+      /usr/lib/i386-linux-gnu
       /sw/lib
       /opt/local/lib
       /opt/csw/lib
